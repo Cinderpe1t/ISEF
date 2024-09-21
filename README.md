@@ -1,1 +1,1 @@
-# ISEF_2024_Lifeguard_UAV_System
+# ISEF 2024 ETSD037 Lifeguard UAV System
