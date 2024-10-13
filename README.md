@@ -4,4 +4,6 @@
 - Project board: https://partner.projectboard.world/isef/project/etsd037-autonomous-scout-and-rescue-uavs-for-ocean-safety
 - Grand Award (Third Award)
 - The 2024 IEEE Presidents' Scholarship First Place Award: https://spectrum.ieee.org/teens-tech-fights-air-pollution
-- Research notebook and log (423 pages): https://github.com/Cinderpe1t/ISEF/blob/main/research.pdf 
+- Research notebook and log (423 pages): https://github.com/Cinderpe1t/ISEF/blob/main/research.pdf
+
+![rescue and scout UAVs](https://github.com/Cinderpe1t/ISEF/blob/main/ISEF%202024%20rescue%20and%20scout%20UAVs.jpeg)
